@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "1759487567730",
+    "name": "jyot konkani",
+    "email": "jk007@gmail.com",
+    "password": "$2a$10$H0Ds6PY053JiBqlBjWRmRO.OS3JSFiP1YCIEyWg8vtAR7xXB851lS",
+    "createdAt": "2025-10-03T10:32:47.730Z",
+    "updatedAt": "2025-10-03T10:32:47.730Z"
+  },
+  {
+    "_id": "1759487728073",
+    "name": "jk",
+    "email": "jyot@gmail.com",
+    "password": "$2a$10$SOcbQbIbUky/pp6QAAWcqOFjOe70nsPIK0a73y.oepwXc7cpfwXai",
+    "createdAt": "2025-10-03T10:35:28.073Z",
+    "updatedAt": "2025-10-03T10:35:28.073Z"
+  }
+]
